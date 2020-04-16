@@ -4,7 +4,7 @@
 
 # todos app
 
-This is a todos project, created from todos pro vuejs 2 by Adam Freeman
+This is a todos project, created based on todos pro vuejs 2 by Adam Freeman
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
